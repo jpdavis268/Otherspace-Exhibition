@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_saveutils",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_saveutils",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/Scripts/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

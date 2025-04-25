@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_footsteps_sand",
+  "audioGroupId":{
+    "name":"audiogroup_entities",
+    "path":"audiogroups/audiogroup_entities",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.36267573,
+  "name":"snd_footsteps_sand",
+  "parent":{
+    "name":"Entities",
+    "path":"folders/Sounds/Entities.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_footsteps_sand.ogg",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_devutils",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_devutils",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/Scripts/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
