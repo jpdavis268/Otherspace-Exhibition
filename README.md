@@ -1,2 +1,2 @@
 # Otherspace
- Exhibition build for a personal project of mine.
+Game I have been working on in my spare time for a few months. It is built in GameMaker, a game engine utilizing a custom language with a syntax similar to JavaScript and C#. It is meant to start as a survival game and slowly transition to a factory game as it progresses. While still in early alpha, it already has many features, such as fully functioning multiplayer, procedural terrain generation, and saving and loading. It is early in development and rough around the edges, but I am very proud of what I have accomplished with this.
